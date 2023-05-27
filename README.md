@@ -4,9 +4,9 @@ I am passionate about front-end development and constantly expanding my skills i
 
 💻 Technical Skills:
 - HTML5, CSS3, and JavaScript are the building blocks of my front-end arsenal.
-- I have hands-on experience with modern frameworks and libraries like React.js and Vue.js.
 - I'm familiar with responsive web design and mobile-first development principles.
 - I use version control systems like Git to collaborate and track changes efficiently.
+<!-- - I have hands-on experience with modern frameworks and libraries like React.js and Vue.js. -->
 
 🌱 Learning and Growth:
 I believe in the power of continuous learning and strive to stay up-to-date with the latest front-end trends and technologies. I am always eager to explore new frameworks, tools, and methodologies to enhance my development workflow.
