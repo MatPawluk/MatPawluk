@@ -24,3 +24,6 @@ I am open to collaborating on exciting projects with fellow developers. If you a
 Thank you for visiting my GitHub profile. Connect with me to explore the fascinating world of front-end development and build remarkable digital experiences!
 
 Happy coding! ✨
+
+<img src="https://komarev.com/ghpvc/?username=MatPawluk&color=red"/>
+
