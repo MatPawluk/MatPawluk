@@ -25,10 +25,8 @@ Thank you for visiting my GitHub profile. Connect with me to explore the fascina
 
 Happy coding! ✨
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatPawluk&theme=shadow_blue&hide_border=true&layout=compact) <br/><br/>
-![](https://github-readme-stats.vercel.app/api?username=MatPawluk&show_icons=true&theme=shadow_blue) <br/> <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MatPawluk&theme=shadow_blue&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatPawluk&theme=shadow_blue&hide_border=true&layout=compact)     ![](https://github-readme-streak-stats.herokuapp.com/?user=MatPawluk&theme=shadow_blue&hide_border=true)
 
 
-<img src="https://komarev.com/ghpvc/?username=MatPawluk&color=red"/>
+<img src="https://komarev.com/ghpvc/?username=MatPawluk&color=blue"/>
 
