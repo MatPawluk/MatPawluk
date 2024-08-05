@@ -6,6 +6,7 @@ I am passionate about front-end development and constantly expanding my skills i
 - HTML5, CSS3, and JavaScript are the building blocks of my front-end arsenal.
 - I'm familiar with responsive web design and mobile-first development principles.
 - I use version control systems like Git to collaborate and track changes efficiently.
+- I'm familiar with SASS
 <!-- - I have hands-on experience with modern frameworks and libraries like React.js and Vue.js. -->
 
 🌱 Learning and Growth:
