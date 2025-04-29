@@ -1,32 +1,31 @@
 👋 Hello there! Welcome to my GitHub profile!
 
-I am passionate about front-end development and constantly expanding my skills in this exciting field. My name is Mateusz, and I am an aspiring front-end developer on a journey to create captivating and user-friendly web experiences.
+My name is Mateusz, and I'm an aspiring front-end developer passionate about crafting fast, modern, and user-friendly web experiences. I'm especially focused on building websites for small and medium-sized businesses — practical solutions with real-world value.
 
-💻 Technical Skills:
-- HTML5, CSS3, and JavaScript are the building blocks of my front-end arsenal.
-- I'm familiar with responsive web design and mobile-first development principles.
-- I use version control systems like Git to collaborate and track changes efficiently.
-- I'm familiar with SASS
-<!-- - I have hands-on experience with modern frameworks and libraries like React.js and Vue.js. -->
+💻 **Tech Stack & Tools**:
+- HTML5, CSS3, JavaScript — my core front-end trio.
+- I build fast static websites with **Astro** and enjoy the flexibility it offers.
+- Currently learning **Vue.js** to expand my component-based development skills.
+- I follow responsive and mobile-first design principles to ensure accessibility across all devices.
+- I'm comfortable using **Git** and version control for efficient collaboration and project tracking.
+- I also use **SASS** to streamline and organize my CSS.
 
-🌱 Learning and Growth:
-I believe in the power of continuous learning and strive to stay up-to-date with the latest front-end trends and technologies. I am always eager to explore new frameworks, tools, and methodologies to enhance my development workflow.
+🌱 **Always Learning**:
+I'm committed to continuous learning — whether it's diving deeper into modern frameworks, optimizing performance, or exploring new development tools. I enjoy translating creative ideas into functional, interactive interfaces.
 
-<!-- 🚀 Projects:
-You can find some of my personal projects on my GitHub repositories. I have worked on various web applications, focusing on creating intuitive user interfaces, optimizing performance, and ensuring cross-browser compatibility. -->
+📚 **My Learning Path**:
+Self-taught and building momentum through online courses, tutorials, and hands-on projects. I learn best by doing — solving real-world problems and delivering polished, usable sites.
 
-📚 Education:
-I am currently pursuing my studies in front-end development through online courses, tutorials, and hands-on projects. I enjoy tackling real-world challenges and translating creative designs into functional and interactive websites.
+🧰 **Freelance Work**:
+I create websites for small and medium-sized businesses, focusing on clarity, performance, and a great user experience. If you need a simple, effective web presence — feel free to reach out.
 
-<!-- 🌟 Open for Collaboration:
-I am open to collaborating on exciting projects with fellow developers. If you are working on something interesting or have any suggestions, feel free to reach out to me. Let's learn and grow together! -->
+---
 
-Thank you for visiting my GitHub profile. Connect with me to explore the fascinating world of front-end development and build remarkable digital experiences!
+Thank you for stopping by!  
+Let’s connect and explore the creative side of web development together.
 
 Happy coding! ✨
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatPawluk&theme=shadow_blue&hide_border=true&layout=compact)     ![](https://github-readme-streak-stats.herokuapp.com/?user=MatPawluk&theme=shadow_blue&hide_border=true)
 
-
 <img src="https://komarev.com/ghpvc/?username=MatPawluk&color=blue"/>
-
